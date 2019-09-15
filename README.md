@@ -9,12 +9,17 @@ Include your responses to the bold questions below. Include snippets of code tha
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
+to see the text the potentiometer needs to be all the way to one end
 
 **b. What voltage level do you need to power the display backlight?**
+the backlight was powered at all points on the potentiometer 
+uses the 3.3V?
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
+didnt have the 3.3V connected and missing some ground connections. Used the circuit diagram to compare every connection on the display and arduino
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+line 54: lcd.print("hello, world!");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
@@ -27,9 +32,10 @@ Include your responses to the bold questions below. Include snippets of code tha
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+ Divide all of the note durations in half
  
 **b. What song is playing?**
-
+??
 
 ## Part E. Make your own timer
 
