@@ -3,16 +3,16 @@
 Include your responses to the bold questions below. Include snippets of code that explain what you did. Deliverables are due next Tuesday. Post your lab reports as README.md pages on your GitHub, and post a link to that on your main class hub page.
 
 ## Pre Lab:
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. An LED that flashes "Happy Birthday" or some other song
+2. A game where two people have to press a buttom at a certain time without seeing the timer
+3. If you press a big red "do not press" button before the timer ends, an alarm goes off
+4. A flashing Marquee sign of LEDs that alternate and form patterns
+5. A popcorn timer to know when to stop the microwave
+6. A laundry timer to have buttons for washing and drying
+7. A message on the screen that self-destructs after a certain time
+8. A game where two people try to be the last person to press the button before the time runs out
+9. A jack in the box with random timing
+10. A maze/puzzle to solve with limited time
 
 
 ## Part A. Solder your LCD panel
