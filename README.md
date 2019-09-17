@@ -35,12 +35,12 @@ I didn't have the 3.3V connected and was missing some ground connections. I used
 line 54: lcd.print("hello, world!"); -> line 54: lcd.print("Ryan");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
-[Link to code]
+[Link to code](https://github.com/rec285/IDD-Fa19-Lab2/blob/master/RyanLowlyMultimeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
-[Link to video]
+[Link to video](https://youtu.be/L5fGZjaKass)
 
 ## Part D. Make your Arduino sing!
 
@@ -55,7 +55,7 @@ The star wars theme song
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 The timer is set using the rotary encoder and then starts the countdown by pressing the button. When the time is up, the speaker beeps.
 
-[Link to Video]
-[Link to Code]
+[Link to Video](https://youtu.be/oX18yvg6WoE)
+[Link to Code](https://github.com/rec285/IDD-Fa19-Lab2/blob/master/sketch_sep14a.ino)
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
